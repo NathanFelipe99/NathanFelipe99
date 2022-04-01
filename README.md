@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Nathan, currently working as a WEB programmer at the company Kennen Tecnologia and also studying Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more.
 
 <p align="center">
   <a href="https://wa.me/5511969193021">
