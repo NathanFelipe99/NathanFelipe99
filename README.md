@@ -15,6 +15,8 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 	</a>
 </p>
 
+![Nathan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NathanFelipe99&hide_border=true&theme=redical)
+
 ## ⚡ MY STACK
 
 ### 🚀 Languages
