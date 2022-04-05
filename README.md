@@ -28,12 +28,12 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 ### 💻 Libraries & Framework
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,7 +47,7 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 <br />
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&hide_border=true&theme=radical" width="400" />
 <img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=NathanFelipe99&layout=compact&hide_border=true&theme=dark" width="400" />
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NathanFelipe99&color=grey"/></p>
