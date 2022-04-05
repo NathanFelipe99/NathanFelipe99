@@ -47,7 +47,7 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&hide_border=true&theme=radical" width="400" />
-<img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=NathanFelipe99&layout=compact&hide_border=true&theme=dark" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&hide_border=true&theme=radical" width="400" height="200" />
+<img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=NathanFelipe99&layout=compact&hide_border=true&theme=dark" width="400" height="200 "/>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NathanFelipe99&color=grey"/></p>
