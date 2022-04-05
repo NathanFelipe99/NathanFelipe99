@@ -17,7 +17,7 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 
 
-## ⚡ MY STACK
+## ⚡ My Stack
 
 ### 🚀 Languages
 
@@ -47,7 +47,7 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&hide_border=true&theme=radical" width="400" height="170" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=NathanFelipe99&layout=compact&hide_border=true&theme=dark" width="400" height="170 "/>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=NathanFelipe99&color=blue"/></p>
