@@ -44,7 +44,7 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 <p>
 <h3 align="center">📊 Trophies</h3>
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=oliveira-renato&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=NathanFelipe99&theme=nord&column=7" >
 
 <p>
 <h3 align="center">📊 GitHub Stats</h3>
@@ -52,7 +52,7 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 <br />
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=material-palenight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NathanFelipe99&show_icons=true&hide_border=true&theme=material-palenight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanFelipe99&hide_border=true&theme=material-palenight" />
   <img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=NathanFelipe99&layout=compact&hide_border=true&theme=material-palenight"  />
 </p>
