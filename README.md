@@ -43,8 +43,9 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 
 <p>
 <h3 align="center">📊 Trophies</h3>
-</p>
 <img src="https://github-profile-trophy.vercel.app/?username=NathanFelipe99&theme=nord&column=7" >
+</p>
+
 
 <p>
 <h3 align="center">📊 GitHub Stats</h3>
