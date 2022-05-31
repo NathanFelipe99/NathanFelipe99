@@ -41,8 +41,8 @@ My name is Nathan, currently working as a WEB programmer at the company Kennen T
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-<p>
-<h3 align="center">📊 Trophies</h3>
+<p align="center">
+<h3>📊 Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=NathanFelipe99&theme=nord&column=7" >
 </p>
 
